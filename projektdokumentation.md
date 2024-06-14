@@ -110,28 +110,28 @@ Design: https://craftpix.net/freebies/page/3/
 
 | AP -№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | -------| ----------| -----------| ---------------------------------------------------| ---------------|
-| 1.A | 24.05.2024 |           |         | 45'           |
-| 1.B   | 24.05.2024 |           |  | 45'           |
-| 2.A   | 24.05.2024 |           |  | 45'           |
-| 3.A   | 31.05.2024 |           |  | 45'           |
-| 4.A   | 31.05.2024 |           |  | 45'           |
-| 5.A   | 31.05.2024 |           |  | 45'           |
-| 6.A   | 31.05.2024 |           |  | 45'           |
-| 7.A   | 31.05.2024 |           |  | 45'           |
-| 7.B   | 31.05.2024 |           |  | 45'           |
+| 1.A | 24.05.2024 | Xavier Nursiwat           |         | 45'           |
+| 1.B   | 24.05.2024 | Xavier Nursiwat           |  | 45'           |
+| 2.A   | 24.05.2024 | Xavier Nursiwat           |  | 45'           |
+| 3.A   | 31.05.2024 | Leonardo Grigioni             |  | 45'           |
+| 4.A   | 31.05.2024 | Leonardo Grigioni             |  | 45'           |
+| 5.A   | 31.05.2024 |Xavier Nursiwat            |  | 45'           |
+| 6.A   | 31.05.2024 | Leonardo Grigioni             |  | 45'           |
+| 7.A   | 31.05.2024 | Leonardo Grigioni             |  | 45'           |
+| 7.B   | 31.05.2024 | Leonardo Grigioni             |  | 45'           |
 | 8.A   | 31.05.2024 |Xavier Nursiwat           | 50 | 45'           |
-| 9.A   | 07.06.2024 |           |  | 45'           |
-| 10.A  | 07.06.2024 |           |  | 45'           |
-| 10.B  | 07.06.2024 |           |  | 45'           |
-| 11.A  | 07.06.2024 |           |  | 45'           |
-| 12.A  | 07.06.2024 |           |  | 45'           |
-| 13.A  | 24.05.2024 |           || 45'       |
-| 14.A  |07.06.2024|           | | 45'           |
-| 15.A  |07.06.2024 |           | | 45'           |
-| 15.B  | 07.06.2024 |           |  | 45'           |
+| 9.A   | 07.06.2024 | Xavier Nursiwat           |  | 45'           |
+| 10.A  | 07.06.2024 |Xavier Nursiwat            |  | 45'           |
+| 10.B  | 07.06.2024 |Xavier Nursiwat            |  | 45'           |
+| 11.A  | 07.06.2024 |Xavier Nursiwat            |  | 45'           |
+| 12.A  | 07.06.2024 |  Leonardo Grigioni            |  | 45'           |
+| 13.A  | 24.05.2024 |Xavier Nursiwat           || 45'       |
+| 14.A  |07.06.2024|  Leonardo Grigioni            | | 45'           |
+| 15.A  |07.06.2024 |  Leonardo Grigioni            | | 45'           |
+| 15.B  | 07.06.2024 |Xavier Nursiwat           |  | 45'           |
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
