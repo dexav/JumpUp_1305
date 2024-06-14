@@ -100,7 +100,7 @@ Total: 1080min / 18h
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
 Wir haben uns etnschieden das SPiel mit einem Tutorial zu machen. Das Design wollen so viel wie möglich selbst erstellen. Dazu wird warscheinlich die Nutzung von KI dazukommen.
 
 Tutorial: https://youtube.com/playlist?list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV&si=fguIKwhLjXNgty5P
