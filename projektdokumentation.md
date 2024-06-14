@@ -4,9 +4,12 @@ Nursiwat & Grigioni
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 17/05/2024      | 0.0.1   | Informieren, Planen und einbisschen Realisieren(movement und Animation erstellt) |
-|       |   |                                                              |
-|       | 1.0.0   |                                                              |
+| 03/05/2024      | 0.0.1  |  Informieren gemacht                                                            |
+| 17/05/2024      | 0.0.2   | Planen, Entscheiden und einbisschen Realisieren(movement und Animation erstellt) |
+| 24/05/2024      | 0.0.3  | weiter Realisiert                                                       |
+| 07/06/2024      | 0.1.0   |Realiseren knapp fertig. Nur noch Start- und Pausebildschirm            |
+| 14/06/2024      | 1.0.0   |  Kontrollieren und Auswerten fertig. Start- und Pausebildschirm noch gemacht.|
+
 
 ## 1 Informieren
 
@@ -62,36 +65,33 @@ Es ist ein Spiel, welches auf das Spiel Doodle Jump angelehnt ist. Wir wollen so
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+![JumpUp](https://github.com/dexav/JumpUp_1305/assets/110892637/e1576a86-6d79-4571-a96b-4cd6cd71b2ce)
+
 
 ## 2 Planen
 
 | AP-№ | Frist    | Zuständig | Beschreibung                                      | geplante Zeit |
 |-------|----------|-----------|---------------------------------------------------|---------------|
-| 1.A   |24.05.2024 |           | Implementierung der Charakterbewegung             | 45'           |
-| 1.B   | 24.05.2024 |           | Implementierung der Sprungmechanik                | 45'           |
-| 2.A   | 24.05.2024 |           | Implementierung des Bildschirm-Scrollings         | 45'           |
-| 3.A   | 31.05.2024 |           | Hinzufügen der Punktesammelfunktion               | 45'           |
-| 4.A   | 31.05.2024 |           | Implementierung des Fallens bei Plattformverlust  | 45'           |
-| 5.A   | 31.05.2024 |           | Optimierung der Animationen                       | 45'           |
-| 6.A   | 31.05.2024 |           | Hinzufügen von Power-Ups                          | 45'           |
-| 7.A   | 31.05.2024 |           | Implementierung visueller Rückmeldungen           | 45'           |
-| 7.B   | 31.05.2024 |           | Implementierung akustischer Rückmeldungen         | 45'           |
-| 8.A   | 31.05.2024 |           | Implementierung Kameraverfolgung                  | 45'           |
-| 9.A   | 07.06.2024 |           | Implementierung der Charakterauswahl              | 45'           |
-| 10.A  | 07.06.2024 |           | Design des Benutzerinterfaces                     | 45'           |
-| 10.B  | 07.06.2024 |           | Implementierung des Benutzerinterfaces            | 45'           |
-| 11.A  | 07.06.2024 |           | Implementierung der Speicherfunktion              | 45'           |
-| 12.A  | 07.06.2024 |           | Hinzufügen von Hindernissen                       | 45'           |
-| 13.A  | 24.05.2024 |           | Implementierung der zufälligen Plattform-Generierung | 45'       |
-| 14.A  |07.06.2024|           | Erstellung des Tutorials                          | 45'           |
-| 15.A  |07.06.2024 |           | Auswahl und Hinzufügen von Hintergrundmusik       | 45'           |
-| 15.B  | 07.06.2024 |           | Auswahl und Hinzufügen von Soundeffekten          | 45'           |
-| 1.C   | 14.06.2024 |           | Testen der Charakterbewegung                      | 45'           |
-| 2.B   | 14.06.2024 |           | Testen des Bildschirm-Scrollings                  | 45'           |
-| 3.B   | 14.06.2024 |           | Testen der Punktesammelfunktion                   | 45'           |
-| 4.B   | 14.06.2024|           | Testen des Fallens bei Plattformverlust           | 45'           |
-| 5.B   | 14.06.2024 |           | Testen der Animationen                            | 45'           |
+| 1.A   |24.05.2024 | Xavier Nursiwat          | Implementierung der Charakterbewegung             | 45'           |
+| 1.B   | 24.05.2024 | Xavier Nursiwat           | Implementierung der Sprungmechanik                | 45'           |
+| 2.A   | 24.05.2024 | Xavier Nursiwat           | Implementierung des Bildschirm-Scrollings         | 45'           |
+| 3.A   | 31.05.2024 |Leonardo Grigioni           | Hinzufügen der Punktesammelfunktion               | 45'           |
+| 4.A   | 31.05.2024 |Leonardo Grigioni              | Implementierung des Fallens bei Plattformverlust  | 45'           |
+| 5.A   | 31.05.2024 | Xavier Nursiwat           | Optimierung der Animationen                       | 45'           |
+| 6.A   | 31.05.2024 |Leonardo Grigioni              | Hinzufügen von Power-Ups                          | 45'           |
+| 7.A   | 31.05.2024 |Leonardo Grigioni              | Implementierung visueller Rückmeldungen           | 45'           |
+| 7.B   | 31.05.2024 |Leonardo Grigioni              | Implementierung akustischer Rückmeldungen         | 45'           |
+| 8.A   | 31.05.2024 | Xavier Nursiwat           | Implementierung Kameraverfolgung                  | 45'           |
+| 9.A   | 07.06.2024 | Xavier Nursiwat           | Implementierung der Charakterauswahl              | 45'           |
+| 10.A  | 07.06.2024 | Xavier Nursiwat           | Design des Benutzerinterfaces                     | 45'           |
+| 10.B  | 07.06.2024 | Xavier Nursiwat           | Implementierung des Benutzerinterfaces            | 45'           |
+| 11.A  | 07.06.2024 |  Xavier Nursiwat          | Implementierung der Speicherfunktion              | 45'           |
+| 12.A  | 07.06.2024 |Leonardo Grigioni              | Hinzufügen von Hindernissen                       | 45'           |
+| 13.A  | 24.05.2024 | Xavier Nursiwat           | Implementierung der zufälligen Plattform-Generierung | 45'       |
+| 14.A  |07.06.2024|  Leonardo Grigioni            | Erstellung des Tutorials                          | 45'           |
+| 15.A  |07.06.2024 | Leonardo Grigioni             | Auswahl und Hinzufügen von Hintergrundmusik       | 45'           |
+| 15.B  | 07.06.2024 | Xavier Nursiwat           | Auswahl und Hinzufügen von Soundeffekten          | 45'           |
+
 
 
 Total: 1080min / 18h
@@ -129,11 +129,7 @@ Design: https://craftpix.net/freebies/page/3/
 | 14.A  |07.06.2024|           | | 45'           |
 | 15.A  |07.06.2024 |           | | 45'           |
 | 15.B  | 07.06.2024 |           |  | 45'           |
-| 1.C   | 14.06.2024 |           |  | 45'           |
-| 2.B   | 14.06.2024 |           |  | 45'           |
-| 3.B   | 14.06.2024 |           |  | 45'           |
-| 4.B   | 14.06.2024|           | | 45'           |
-| 5.B   | 14.06.2024 |           |  | 45'           |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
