@@ -110,25 +110,25 @@ Design: https://craftpix.net/freebies/page/3/
 
 | AP -№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | -------| ----------| -----------| ---------------------------------------------------| ---------------|
-| 1.A | 24.05.2024 | Xavier Nursiwat           |         | 45'           |
-| 1.B   | 24.05.2024 | Xavier Nursiwat           |  | 45'           |
-| 2.A   | 24.05.2024 | Xavier Nursiwat           |  | 45'           |
-| 3.A   | 31.05.2024 | Leonardo Grigioni             |  | 45'           |
-| 4.A   | 31.05.2024 | Leonardo Grigioni             |  | 45'           |
-| 5.A   | 31.05.2024 |Xavier Nursiwat            |  | 45'           |
-| 6.A   | 31.05.2024 | Leonardo Grigioni             |  | 45'           |
-| 7.A   | 31.05.2024 | Leonardo Grigioni             |  | 45'           |
-| 7.B   | 31.05.2024 | Leonardo Grigioni             |  | 45'           |
+| 1.A | 24.05.2024 | Xavier Nursiwat           |      45   | 45'           |
+| 1.B   | 24.05.2024 | Xavier Nursiwat           | 45 | 45'           |
+| 2.A   | 24.05.2024 | Xavier Nursiwat           | 45 | 45'           |
+| 3.A   | 31.05.2024 | Leonardo Grigioni             |  45| 45'           |
+| 4.A   | 31.05.2024 | Leonardo Grigioni             | 45 | 45'           |
+| 5.A   | 31.05.2024 |Xavier Nursiwat            | 45 | 45'           |
+| 6.A   | 31.05.2024 | Leonardo Grigioni             | 45 | 45'           |
+| 7.A   | 31.05.2024 | Leonardo Grigioni             | 45 | 45'           |
+| 7.B   | 31.05.2024 | Leonardo Grigioni             |45  | 45'           |
 | 8.A   | 31.05.2024 |Xavier Nursiwat           | 50 | 45'           |
-| 9.A   | 07.06.2024 | Xavier Nursiwat           |  | 45'           |
-| 10.A  | 07.06.2024 |Xavier Nursiwat            |  | 45'           |
-| 10.B  | 07.06.2024 |Xavier Nursiwat            |  | 45'           |
-| 11.A  | 07.06.2024 |Xavier Nursiwat            |  | 45'           |
-| 12.A  | 07.06.2024 |  Leonardo Grigioni            |  | 45'           |
-| 13.A  | 24.05.2024 |Xavier Nursiwat           || 45'       |
-| 14.A  |07.06.2024|  Leonardo Grigioni            | | 45'           |
-| 15.A  |07.06.2024 |  Leonardo Grigioni            | | 45'           |
-| 15.B  | 07.06.2024 |Xavier Nursiwat           |  | 45'           |
+| 9.A   | 07.06.2024 | Xavier Nursiwat           | 45 | 45'           |
+| 10.A  | 07.06.2024 |Xavier Nursiwat            |50  | 45'           |
+| 10.B  | 07.06.2024 |Xavier Nursiwat            |45  | 45'           |
+| 11.A  | 07.06.2024 |Xavier Nursiwat            |45  | 45'           |
+| 12.A  | 07.06.2024 |  Leonardo Grigioni            |50  | 45'           |
+| 13.A  | 24.05.2024 |Xavier Nursiwat           |50| 45'       |
+| 14.A  |07.06.2024|  Leonardo Grigioni            |50 | 45'           |
+| 15.A  |07.06.2024 |  Leonardo Grigioni            | 50| 45'           |
+| 15.B  | 07.06.2024 |Xavier Nursiwat           | 50 | 45'           |
 
 
 
@@ -137,11 +137,25 @@ Design: https://craftpix.net/freebies/page/3/
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |07.06.2024       |  ok        |  Xavier Nursiwat      |
+| 2.1  |  07.06.2024     |    ok      |Xavier Nursiwat        |
+| 3.1  |07.06.2024       |      ok    |Xavier Nursiwat        |
+| 4.1  |07.06.2024       |        nok  |Xavier Nursiwat        |
+| 5.1  |07.06.2024       |        ok  |Xavier Nursiwat        |
+| 6.1  | 07.06.2024      |   nok       |Xavier Nursiwat        |
+| 7.1  | 07.06.2024      |   nok       |Xavier Nursiwat        |
+| 8.1  | 14.06.2024      | ok         |Xavier Nursiwat        |
+| 9.1  |14.06.2024        | nok         | Xavier Nursiwat       |
+| 10.1  | 14.06.2024       | ok         |Xavier Nursiwat        |
+| 11.1  | 14.06.2024       |  nok        |Xavier Nursiwat        |
+| 12.1  |14.06.2024        |   nok       | Xavier Nursiwat       |
+| 13.1  |14.06.2024        |  ok        | Xavier Nursiwat       |
+| 14.1  | 14.06.2024       |  nok        | Xavier Nursiwat       |
+| 15.1  | 14.06.2024       |  nok        | Xavier Nursiwat       |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Fazit: Die Grundlagen des Spiels funktionieren einwandfrei, doch features wie z.B. Sound abspielen, Highscore, Spielstand speichern funktionieren nicht. Dennoch kann man das Spiel normal spielen.
 
-## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+
+
+
